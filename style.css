@@ -1,0 +1,24 @@
+.background_wrapper {
+	width: 100vw;
+	font-size: 16px;
+	height: 100vh;
+	background: black;
+	display: flex;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+
+.key {
+	width: 3rem;
+	height: 15rem;
+	margin-left: 1rem;
+	border-radius: 0.4rem;
+}
+
+.letter {
+	padding-top: 170px;
+	font-size: 1.2rem;
+	font-weight: 900;
+}
